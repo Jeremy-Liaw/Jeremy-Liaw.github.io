@@ -1,9 +1,17 @@
 {
   "name": "Jeremy",
-  "tagline": "",
-  "avatar": "",
+  "tagline": "#Program #Uschool",
+  "avatar": "image/ME.png",
   "contacts": [
-    { "label": "Email",  "value": "", "href": "" },
-    { "label": "GitHub", "value": "", "href": "" }
+    {
+      "label": "Email",
+      "value": "jeremyliaw.70@gmail.com",
+      "href": "mailto:jeremyliaw.70@gmail.com"
+    },
+    {
+      "label": "GitHub",
+      "value": "Jeremy-Liaw",
+      "href": "https://github.com/Jeremy-Liaw"
+    }
   ]
 }
