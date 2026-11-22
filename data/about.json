@@ -1,0 +1,9 @@
+{
+  "name": "Jeremy",
+  "tagline": "",
+  "avatar": "",
+  "contacts": [
+    { "label": "Email",  "value": "", "href": "" },
+    { "label": "GitHub", "value": "", "href": "" }
+  ]
+}
